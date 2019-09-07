@@ -1,1 +1,0 @@
-# scrapy-pua-rotate
